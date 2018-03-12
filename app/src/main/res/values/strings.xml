@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">ProofOfConcept</string>
+
+    <string name="title_placeholder">Title</string>
+    <string name="description_placeholder">Description</string>
+    <string name="image_descriptor">Image</string>
+    <string name="long_sample">Lorem ipsum dolor sit amet, nibh lacus. Rutrum vitae interdum, penatibus urna, fermentum tellus, rutrum quisque dolor enim, posuere proin integer minima erat mauris. Arcu ultrices metus convallis neque molestie, sodales mi egestas pellentesque commodo erat libero, sodales euismod nulla, tortor sodales faucibus. Morbi malesuada conubia sed gravida imperdiet, et diam libero ipsum rutrum ullamcorper, dignissim feugiat aut sodales viverra non consectetuer. Integer et penatibus, augue id et felis. Cras vehicula et amet, sed quam non nec massa, in ut vel turpis viverra donec, amet tincidunt doloremque per eu. Urna sed volutpat aliquet et magna mi. In felis vel purus, magna leo. Dui integer sollicitudin, nec dui, in vestibulum phasellus in blandit id. Egestas nulla tincidunt eget habitasse, integer tempus quam sit mattis aliquam deserunt, nec orci, tellus enim. Semper at eu vulputate pede, ante vivamus</string>
+    <string name="short_sample">Lorem ipsum dolor sit amet, nibh lacus.</string>
+
+    <string name="error">Error</string>
+    <string name="success">Success</string>
 </resources>
