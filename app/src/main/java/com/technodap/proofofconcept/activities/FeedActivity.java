@@ -1,7 +1,9 @@
-package com.technodap.proofofconcept;
+package com.technodap.proofofconcept.activities;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.technodap.proofofconcept.R;
 
 public class FeedActivity extends AppCompatActivity {
 
